@@ -55,7 +55,3 @@
 </picture>
 
 ###
-
-<img src="https://raw.githubusercontent.com/AmirOsman03/AmirOsman03/output/snake.svg" alt="Snake animation" />
-
-###
