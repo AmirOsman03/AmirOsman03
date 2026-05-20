@@ -3,7 +3,7 @@
 ###
 
 <div align="start">
-  <img height="450" src="https://i.pinimg.com/originals/95/58/01/9558014814b58d573db6977743cc1c61.gif"  />
+  <img width="100%" src="https://i.pinimg.com/originals/95/58/01/9558014814b58d573db6977743cc1c61.gif"  />
 </div>
 
 ###
@@ -31,7 +31,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmirOsman03/AmirOsman03/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmirOsman03/AmirOsman03/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/AmirOsman03/AmirOsman03/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/AmirOsman03/AmirOsman03/output/github-snake.svg" width="100%" />
 </picture>
 
 ###
